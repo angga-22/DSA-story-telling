@@ -1,4 +1,4 @@
-# 🚀 Data Structures & Algorithms - Self-Learning Journey
+# Data Structures & Algorithms - Self-Learning Journey
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -293,19 +293,19 @@ After following this journey, you'll have:
 
 ### 🧠 **Technical Skills**
 
-- ✅ **Algorithm pattern recognition**
-- ✅ **Time/space complexity analysis**
-- ✅ **Problem-solving frameworks**
-- ✅ **Code optimization techniques**
-- ✅ **Debugging and testing strategies**
+-  **Algorithm pattern recognition**
+-  **Time/space complexity analysis**
+-  **Problem-solving frameworks**
+-  **Code optimization techniques**
+- m **Debugging and testing strategies**
 
 ### 🚀 **Practical Abilities**
 
-- ✅ **Interview confidence** with story-driven explanations
-- ✅ **Teaching skills** through narrative approaches
-- ✅ **Creative problem-solving** using metaphors
-- ✅ **Self-learning methodology** for future topics
-- ✅ **Community contribution** mindset
+-  **Interview confidence** with story-driven explanations
+-  **Teaching skills** through narrative approaches
+-  **Creative problem-solving** using metaphors
+-  **Self-learning methodology** for future topics
+-  **Community contribution** mindset
 
 ## 🤝 Contributing
 
